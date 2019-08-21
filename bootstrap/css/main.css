@@ -1,0 +1,85 @@
+
+
+html, body{
+	height: 100% ;
+}
+
+.carousel-inner img{
+	width: 100% ;
+	height: 100% ;
+}
+
+.offers{
+	height: 20% ;
+}
+
+.offersP{
+	height: 100% ;
+	width: 100% ;
+}
+
+.extensionOfHeading{
+	background-color: #737984 ;
+}
+
+.content-bg{
+	background-color: #dee2e0 ;
+}
+
+/*background colors*/
+.bg-purple{
+	background-color: #f221c8 ;
+	color: WHITE ;
+}
+
+.bg-magenta{
+	background-color: #8c053f ;
+	color: WHITE ;
+}
+
+.bg-black{
+	background-color: #000000 ;
+}
+
+.bg-yellow{
+	background-color: #f0fc05 ;
+	color: black ;
+}
+
+.bg-moderate-green{
+	background-color: #05fc25 ;
+	color: WHITE ;
+}
+
+.bg-orange{
+	background-color: #fc7805 ;
+	color: black ;
+}
+
+.bg-paste{
+	background-color: #05fcdf ;
+}
+
+.model-backdrop{
+	bottom: 0 ;
+	height: 100% ;
+	background: url("login_supplier.jpg");
+}
+
+.hr{
+	height: 2px ;
+	color: Black ;
+}
+
+.modal-body{
+	background: url("login_supplier.jpg");	
+}
+
+.container_main{
+	min-height: 58% ;
+	overflow: auto;
+}
+
+#footer{
+	position: relative;
+}
